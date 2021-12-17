@@ -11,3 +11,5 @@ export const testDB = async () => {
     console.log(error.message);
   }
 };
+
+export default sequelize;
